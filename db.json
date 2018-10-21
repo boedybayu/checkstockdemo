@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Hanny Tralala",
+            "email": "hanny.test@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "code": "HS Bunny Shirt 49",
+            "supplier_code": "BL9049",
+            "product_link": "https://www.missonlineshop.com/bl9049.html"
+        },
+        {
+            "id": 2,
+            "code": "HS Baby Piyama 66 ",
+            "supplier_code": "PJ166",
+            "product_link": "https://www.missonlineshop.com/pj166.html"
+        }
+    ]
+}
